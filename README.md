@@ -1,4 +1,4 @@
-# RPGMVConcept
+# RPG Maker MV Concept Game
 A concept RPG Maker game that utilizes several scripts, plugins and other functions to go beyond a typical RPG experience and create a semi-horror atmosphere.
 
 
